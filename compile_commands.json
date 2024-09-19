@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo8\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo8",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo8\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo7\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo7",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo7\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo3",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo3\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo4",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo4\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo5",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo5\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo2\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo6",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo6\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Practica1\\main.cpp",
+  "directory": "C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Practica1",
+  "command": "clang++ -c C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Practica1\\main.cpp -o C:\\Users\\blant\\OneDrive\\Documentos\\Practica1\\Practica1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

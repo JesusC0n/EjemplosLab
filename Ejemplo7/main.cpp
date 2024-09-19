@@ -11,5 +11,6 @@ int main(int argc, char **argv)
         if(test)
             cout << c << " pulsado.\n";
     } while(c != 27);
+	return 0;
     
 }
