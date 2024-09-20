@@ -2,6 +2,10 @@
 
 int main(int argc, char **argv)
 {
-	printf("hello world\n");
-	return 0;
+	int x;
+    std::cout << "Escriba un numero: ";
+    std::cin >> x;
+    std::cout << "El numero introducido es: " << x << "\n";
+    
+    return 0;
 }
